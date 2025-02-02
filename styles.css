@@ -1,0 +1,9 @@
+.recipe-title {
+  color: blue;
+  font-family: Georgia, sans-serif;
+}
+
+.list {
+  list-style-type: square;
+  font-family: Georgia, sans-serif;
+}
